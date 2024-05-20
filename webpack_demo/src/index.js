@@ -4,5 +4,6 @@
 
 import {camelCase} from 'lodash';
 
+import './style.scss';
 // does not work as browser does not know where to find the function
-console.log(camelCase("Hello world!"))
+console.log(camelCase("Hello world! sas how "))
